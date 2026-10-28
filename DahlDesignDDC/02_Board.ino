@@ -19,7 +19,7 @@
 //------------------------------
 
 #define RESET_EEPROM 0
-#define USING_RP2040EEPROM 0
+#define USING_RP2040EEPROM 1
 #define USING_32U4EEPROM 0
 
 //------------------------------
@@ -32,7 +32,7 @@
 //---RP2040 ADC OVERSAMPLING----
 //------------------------------
 
-#define ENABLE_OVERSAMPLING 0
+#define ENABLE_OVERSAMPLING 1
 
 //------------------------------
 //-----------MOUSE--------------
